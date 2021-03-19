@@ -3,6 +3,8 @@
 Tutorial project explaining the Usage of Diffable Data Sources in a TableView.
 
 
+![diffableSources](https://raw.githubusercontent.com/Shubham0812/BookGallery_iOS/master/BookGallery/book.gif)
+
 
 
 ## Spread the word!
